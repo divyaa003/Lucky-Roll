@@ -6,7 +6,7 @@ function play(event) {
 
 	var randomNumber1 = Math.floor(Math.random() * 6) + 1;
 
-	var randomImageSource = "Dice Images/Dice " + randomNumber1 + ".png";
+	var randomImageSource = "Dice " + randomNumber1 + ".png";
 
 	var image1 = document.querySelectorAll("img")[0];
 
@@ -15,7 +15,7 @@ function play(event) {
 
 	var randomNumber2 = Math.floor(Math.random() * 6) + 1;
 
-	var randomImageSource2 = "Dice Images/Dice " + randomNumber2 + ".png";
+	var randomImageSource2 = "Dice " + randomNumber2 + ".png";
 
 	var image2 = document.querySelectorAll("img")[1];
 
