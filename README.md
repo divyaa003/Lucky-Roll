@@ -18,6 +18,9 @@ Lucky Roll is a simple dice game web application that allows two players to roll
 - CSS
 - JavaScript
 
+  ## Demo 🎮
+You can try the Drum Kit live by visiting the [Demo](https://your-demo-link.com).
+
 ## Usage 🖥️
 You can access the game by opening the `index.html` file in a web browser. Have fun playing with a friend!
 
